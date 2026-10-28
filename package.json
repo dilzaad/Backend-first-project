@@ -1,0 +1,14 @@
+
+{
+  "name": "backend-first-project",
+  "version": "1.0.0",
+  "description": "a backend at chay aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javascript", "backend"],
+  "author": "Dilzaad",
+  "license": "ISC",
+  "type": "commonjs"
+}
