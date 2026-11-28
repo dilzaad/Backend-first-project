@@ -1,0 +1,8 @@
+$kind: http-request
+description: ""
+url: "{{server}}/users/channel-subscribers/6b01a2f2d5d4de5694ab96d9"
+method: POST
+body:
+  type: json
+  content: ""
+order: 4000
